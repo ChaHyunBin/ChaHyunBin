@@ -52,13 +52,6 @@ MCT·CNC 가공 현장 4년 → 에스트래픽 풀스택 과정
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ChaHyunBin&show_icons=true&theme=default&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaHyunBin&layout=compact&theme=default&hide_border=true" height="160"/>
-</div>
-
 <br/>
 
 ## 📫 Contact
